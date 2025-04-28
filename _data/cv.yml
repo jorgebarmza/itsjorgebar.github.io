@@ -44,12 +44,12 @@
 - title: Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/itsjorgebar/n-body-simulation">N-Body Simulation</a>
+    - title: <a href="https://github.com/jorgebarmza/n-body-simulation">N-Body Simulation</a>
       year: 2020
       description: 
         - Built a 3D celestial mechanics simulation of bodies interacting in space.
         - Applied Newton's laws, ODE numerical integration, and WebGL rendering.
-    - title: <a href="https://github.com/itsjorgebar/tiger">Tiger Compiler</a>
+    - title: <a href="https://github.com/jorgebarmza/tiger">Tiger Compiler</a>
       year: 2020
       description: 
         - Implemented a compiler front-end for Tiger, a small imperative language.
