@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: > 
-  <b>Software Engineer</b> @ <a href='https://about.google/'>Google</a> 🔸 <b>Previously:</b><a href='https://about.meta.com/'> Meta</a>
+  <b>Software Engineer</b> @ <a href='https://about.google/'>Google</a> • <b>Previously:</b><a href='https://about.meta.com/'> Meta</a>
 
 profile:
   align: right
@@ -21,4 +21,4 @@ I work at <a href='https://labs.google/'>Google Labs</a>, building new GenAI too
 
 For recreation 🏕️ I run trails, study math, share stories with friends, and appreciate each breath.
 
-You can reach me via email or social media (`@jorgebarmza`) 📱
+You can reach me via email or social media (`@jorgebarmza`)
