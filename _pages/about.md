@@ -21,4 +21,4 @@ I work at <a href='https://labs.google/'>Google Labs</a>, building new AI tools 
 
 For recreation, I run trails, study math, share stories with friends, and appreciate each breath 🔸 I’m inspired by <a href='https://en.wikipedia.org/wiki/Effective_altruism'>effective altruism</a> and support high&#8209;impact charities working toward a brighter future. 
 
-You can reach me via email or social media: `@jorgebarmza`
+You can reach me via social media: `@jorgebarmza` 
