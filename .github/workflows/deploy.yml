@@ -21,6 +21,8 @@ jobs:
       with:
         ruby-version: '3.1.3'
         bundler-cache: true
+    - name: Remove old Gemfile.lock if exists
+      run: rm -f Gemfile.lock
     - name: Install deps
       run: |
         npm install -g mermaid.cli
