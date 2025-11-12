@@ -17,8 +17,8 @@ social: true  # includes social icons at the bottom of the page
 ---
 Hello there 👋 I'm Jorge <span style="color:grey">(pronounced HOR-heh)</span> 
 
-I work at <a href='https://labs.google/'>Google Labs</a>, building new AI tools for creators. I'm a full&#8209;stack engineer 👨🏻‍💻 with a deep interest in large&#8209;scale ML systems. My favorite thing in the world is collaborating to build products that bring people joy.
+I work at <a href='https://labs.google/'>Google Labs</a>, building new AI tools for creators. I'm a full&#8209;stack engineer, fascinated by large&#8209;scale ML systems 🤖 My favorite activity is collaborating to solve meaningful technical problems.
 
-For recreation, I run trails, study math, share stories with friends, and appreciate each breath 🔸 I’m inspired by <a href='https://en.wikipedia.org/wiki/Effective_altruism'>effective altruism</a> and support high&#8209;impact charities working toward a brighter future. 
+For recreation, I run trails, study math, share stories with friends, and appreciate each breath 🌱 I’m inspired by <a href='https://en.wikipedia.org/wiki/Effective_altruism'>effective altruism</a> and support charities working toward a brighter future. 
 
 You can reach me via social media: `@jorgebarmza` 

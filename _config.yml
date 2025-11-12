@@ -65,7 +65,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 
 github_username: jorgebarmza # your GitHub user name
 gitlab_username: # your GitLab user name
-twitter_username: # your Twitter handle
+twitter_username: jorgebarmza # your Twitter handle
 linkedin_username: jorgebarmza # your LinkedIn user name
 scholar_userid: # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
@@ -85,7 +85,7 @@ lastfm_id: # your lastfm id
 spotify_id: # your spotify id
 pinterest_id: # your pinterest id
 unsplash_id: # your unsplash id
-instagram_id: jorgebarmza # your instagram id
+instagram_id: # your instagram id
 facebook_id: jorgebarmza # your facebook id
 discord_id: # your discord id (18-digit unique numerical identifier)
 
