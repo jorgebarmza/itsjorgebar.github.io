@@ -19,6 +19,6 @@ Hello there 👋 I'm Jorge <span style="color:grey">(pronounced HOR-heh)</span>
 
 I work at <a href='https://labs.google/'>Google Labs</a>, building new AI tools for knowledge work. I’m a versatile engineer specializing in applied ML and large&#8209;scale systems 🤖 I love collaborating to solve hard technical problems, taking ideas 0→1 and shipping features with real user impact.
 
-For recreation, I run trails, study math, share stories with friends, and appreciate each breath 🌱 I’m a member of <a href='https://www.givingwhatwecan.org/'>Giving What We Can</a>, motivated to help others thrive.
+For recreation, I run trails, study math, share stories with friends, and appreciate each breath 🌱 I’m a member of <a href='https://www.givingwhatwecan.org/'>Giving What We Can</a>, motivated to help others thrive. Fueled by curiosity and whole wheat PB&J.
 
 You can reach me via email or on social media: `@jorgebarmza` 
