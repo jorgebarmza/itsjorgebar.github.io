@@ -21,4 +21,4 @@ I work at <a href='https://labs.google/'>Google Labs</a>, building new AI tools 
 
 For recreation, I run trails, study math, share stories with friends, and appreciate each breath 🌱 I’m a member of <a href='https://www.givingwhatwecan.org/'>Giving What We Can</a>, motivated to help others thrive. Fueled by curiosity and whole wheat PB&J.
 
-You can <a href='mailto:jorge@jorgebar.com'>send me an email</a> 📩 or connect with me on social media.
+You can send me an <a href='mailto:jorge@jorgebar.com'>email</a> 📩 or connect with me on social media.
